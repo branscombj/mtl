@@ -104,4 +104,4 @@ d. …empower you to realize ongoing improvements in team quality of care and te
 | --- | --- | 
 | We selected a Team Vision to orient our learning throughout _MTL_.  | [<img src = "https://raw.githubusercontent.com/lzim/teampsd/teampsd_style/teampsd_logo/va_team_psd_logo_sq_sm.png" height = "75" width = "100">](mailto:lindsey.zimmerman@va.gov;stacey.park2@va.gov) Select a Team Lead and email TeamPSD to set up our standing team meeting time. |
 
-
+ 
